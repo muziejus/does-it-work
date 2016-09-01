@@ -1,9 +1,9 @@
-# The Map of the City that Is this Novel
+# Does It Work?
 
-“The Map of the City that Is this Novel” is a proposed course to introduce
-students to American realism and thinking about geography in the novel.
+“Does It Work?” is a proposed course to introduce students to digital literary
+study.
 
-I’m teaching the class for the first time in the spring of 2016 at New York
+I’m teaching the class for the first time in the fall of 2016 at New York
 University.
 
 ## Structure
@@ -47,6 +47,11 @@ would also probably help moving this syllabus to a
 
 ## Credits
 
+This is a strong clone of a previous course I taught at NYU, “[The Map of the
+City that Is this
+Novel](https://github.com/muziejus/the-map-of-the-city-that-is-this-novel)” in
+spring 2016.
+
 In order to get the syllabus to sound “NYUish,” I copied (sometimes very
 heavily) from a syllabus prepared by my colleague at NYU, [Jini
 Watson](http://english.fas.nyu.edu/object/JiniWatson.html). She was also
@@ -72,4 +77,4 @@ ProfHacker articles:
 
 ## License
 
-The Map of the City that Is this Novel by [Moacir P. de Sá Pereira](http://moacir.com) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/). To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc-sa/3.0/](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+Does It Work? by [Moacir P. de Sá Pereira](http://moacir.com) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/). To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc-sa/3.0/](http://creativecommons.org/licenses/by-nc-sa/3.0/)

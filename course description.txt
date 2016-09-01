@@ -1,0 +1,19 @@
+“Does It Work?”
+
+Over the past decade, literary study has become increasingly,
+reflexively interested in investigating the methods that it generates.
+At the same time, the digital humanities have emerged to claim a part
+of growing English departments. This course serves as an introduction
+to both of these currents in contemporary literary study. We will
+first consider the new, different forms of reading that have broadened
+the way we interpret texts, and we will then look to how the digital
+humanities, as an especially method-oriented subfield, brings these
+questions of interpretation into even sharper contrast. Students will,
+then, see how debates about interpretation are lived and experienced
+within the digital humanities, both in theory and practice. Finally,
+students will learn to use digital methodologies in their
+interpretation, with possible projects in corpus analysis, topic
+modeling, geospatial analysis, and digitization with texts of American
+fiction of the twentieth and twenty-first centuries from authors such
+as Octavia Butler, Willa Cather, William Gibson, Ursula K. Le Guin,
+Richard Powers, Thomas Pynchon, and Dana Spiotta serving as the seeds.
